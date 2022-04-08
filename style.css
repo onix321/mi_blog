@@ -58,7 +58,7 @@
   
   /* Fake image */
   .fakeimg {
-    background-color: #aaa;
+    background-color: rgb(150, 35, 35);
     width: 100%;
     padding: 20px;
   }
