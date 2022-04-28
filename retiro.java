@@ -5,4 +5,5 @@ public class Retiro {
 
   salario = salario * 0.25;
   nombreBeneficiario = "Juan Perez";
+  println(nombreBeneficiario + edad);
 }
