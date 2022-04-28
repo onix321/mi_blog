@@ -3,4 +3,5 @@ public class Retiro {
   private Int edad;
 
   nombreBeneficiario = "Juan Perez";
+  println(nombreBeneficiario + edad);
 }
