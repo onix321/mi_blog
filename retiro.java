@@ -1,3 +1,4 @@
 public class Retiro {
-  private String nombre;
+  private String nombreBeneficiario;
+  private Int edad;
 }
