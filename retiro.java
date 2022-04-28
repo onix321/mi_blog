@@ -6,4 +6,10 @@ public class Retiro {
   salario = salario * 0.25;
   nombreBeneficiario = "Juan Perez";
   println(nombreBeneficiario + edad);
+
+
+  if (salario > 5000) {
+    println("Se aplica impuestos")
+  } 
+
 }
